@@ -35,4 +35,4 @@ The projects above are commercial software. Public repositories contain **high-l
 
 ---
 
-*Open to professional connections around Node.js, React, backend systems, and applied AI.*
+*Open to professional connections around Node.js,n8n ,React, backend systems, and applied AI.*
