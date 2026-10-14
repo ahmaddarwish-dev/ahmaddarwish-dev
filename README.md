@@ -1,7 +1,7 @@
 
 # Hi, I'm Ahmad Darwish 👋
 
-**Software Engineer · Node.js & React · Business Applications · AI Integration**
+**Software Engineer · n8n ·Node.js & React · Business Applications · AI Integration**
 
 I build web applications and practical software solutions for business workflows. My primary focus is **Node.js**,**n8n** and **React**. I also work with databases and AI-enabled business tools.
 
