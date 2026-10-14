@@ -3,7 +3,7 @@
 
 **Software Engineer · Node.js & React · Business Applications · AI Integration**
 
-I build web applications and practical software solutions for business workflows. My primary focus is **Node.js** and **React**. I also work with databases and AI-enabled business tools.
+I build web applications and practical software solutions for business workflows. My primary focus is **Node.js**,**n8n** and **React**. I also work with databases and AI-enabled business tools.
 
 - 💼 **Software Engineer — Alkhazen Soft** (August 2025 – Present)
 - 🎓 **Software Engineering student — Yarmouk Private University** (expected September 2028)
